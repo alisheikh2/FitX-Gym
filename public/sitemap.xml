@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://fitxstudio.pk/</loc><priority>1.00</priority></url>
+  <url><loc>https://fitxstudio.pk/about</loc><priority>0.80</priority></url>
+  <url><loc>https://fitxstudio.pk/programs</loc><priority>0.90</priority></url>
+  <url><loc>https://fitxstudio.pk/coaches</loc><priority>0.85</priority></url>
+  <url><loc>https://fitxstudio.pk/membership</loc><priority>0.90</priority></url>
+  <url><loc>https://fitxstudio.pk/transformations</loc><priority>0.70</priority></url>
+  <url><loc>https://fitxstudio.pk/reviews</loc><priority>0.75</priority></url>
+  <url><loc>https://fitxstudio.pk/blog</loc><priority>0.70</priority></url>
+  <url><loc>https://fitxstudio.pk/contact</loc><priority>0.90</priority></url>
+</urlset>
